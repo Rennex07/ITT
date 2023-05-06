@@ -1,4 +1,4 @@
 # ITT
-Discord ID to Token
-This tool is to turn anyone Discord ID's into their token.
+Discord ID to Token.
+This tool can turn anyone's ID into token.
 
